@@ -7,8 +7,11 @@ use warnings;
 # Arrays are variables too! in Perl
 
 
-my @arr = (3, 4, 'abc');
+my @arr = (4, 2, 'abc');
 print "$_ " for @arr; print "\n";
+
+print sort @arr; print "\n";
+print reverse sort @arr; print "\n";
 
 printf "%d \n", $arr[1];
 printf "%s \n", $arr[$#arr];
