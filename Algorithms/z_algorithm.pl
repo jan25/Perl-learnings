@@ -65,8 +65,9 @@ sub z_algo {
 
 =pod
 
-usage: xxx.pl <text> <pattern>
+usage: xxx.pl
+Enter text followed to string to find
 
-outputs matched indices of pattern inside text
+outputs matched indices of string inside text
 
 =cut
