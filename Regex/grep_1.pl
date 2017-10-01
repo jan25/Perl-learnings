@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 
-# Learning re in perl today
-# So cute and can't be simpler
-
 use strict;
 use warnings;
 
